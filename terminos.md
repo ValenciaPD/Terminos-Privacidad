@@ -4,13 +4,13 @@
 
 ## 1. Aceptación de los términos
 
-Al utilizar **[NOMBRE DE LA APLICACIÓN]** (en adelante, "la Aplicación"), aceptas estos Términos y Condiciones de Servicio.
+Al utilizar **ValenciaPD** (en adelante, "la Aplicación"), aceptas estos Términos y Condiciones de Servicio.
 
 Si no estás de acuerdo con estos términos, no utilices la Aplicación.
 
 ## 2. Descripción de la Aplicación
 
-**[NOMBRE DE LA APLICACIÓN]** es una aplicación para Discord diseñada para proporcionar diferentes funciones y herramientas dentro de servidores de Discord.
+**ValenciaPDD** es una aplicación para Discord diseñada para proporcionar diferentes funciones y herramientas dentro de servidores de Discord.
 
 La Aplicación puede interactuar con servidores, canales, usuarios, roles y otras funciones de Discord de acuerdo con los permisos que se le hayan concedido.
 
